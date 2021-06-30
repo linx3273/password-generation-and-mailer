@@ -1,6 +1,6 @@
-1st SEM Project Video.mp4
-.vs/slnx.sqlite
-.vs/VSWorkspaceState.json
-.vs/1st Sem Project/v16/.suo
-.vscode/launch.json
-.vscode/settings.json
+#ignoring directories
+.vs/
+.vscode/
+
+#ignoring file extensions
+*.mp4
